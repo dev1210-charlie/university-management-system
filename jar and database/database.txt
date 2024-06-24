@@ -1,22 +1,3 @@
-------------------
-CODE FOR INTERVIEW
-------------------
-
-Do Subscribe our Youtube channel and Please like the video if you liked it
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
-
-Instagram
-username: codeforinterview
-https://www.instagram.com/codeforinterview
-
-Telegram
-username: codeforinterview
-https://t.me/codeforinterview
-
----------------------------------------------------
-Database Queries for UNIVERSITY MANAGEMENT SYSTEM Project
----------------------------------------------------
-
 1 - Create database
 
 create database universitymanagementsystem;
@@ -84,6 +65,3 @@ insert into fee values("Mcom", "36000", "30000","30000","30000","","","";
 create table collegefee(rollno varchar(20), course varchar(20), branch varchar(20), semester varchar(20), total varchar(20));
 
 
-
-Code For Interview
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
